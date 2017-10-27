@@ -16,12 +16,13 @@
   - Mike	
   
 - Create a blog that a user can post into
-- Store blog posts on some back-end (can be relatively simple for now)
-- Find a news API that you can pull relevant stories from
+- Store blog posts on some back-end (can be relatively simple for now) - either build yourself, or use free API
+- Find a news API that you can pull relevant stories from 
+- Make sure any API is free and can be scalable, also avoid complicated authentication for APIs
 - Have a user-friendly layout that integrates these two features relatively seamlessly
 - For styling, focus on layout, don't need to worry to much about fonts/colors/etc.
 
-</hr>
+---
 
 - **Team Messenger**
   - Emma
@@ -33,7 +34,7 @@
 - Create threads for each conversation (one user to one other user)
 - For styling, focus on layout, don't need to worry to much about fonts/colors/etc.
 
-</hr>
+---
 
 - **Team Scheduler**
   - Courtney
