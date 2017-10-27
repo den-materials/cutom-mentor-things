@@ -14,15 +14,31 @@
   - Ryan
   - Wes
   - Mike	
+  
+- Create a blog that a user can post into
+- Store blog posts on some back-end (can be relatively simple for now)
+- Find a news API that you can pull relevant stories from
+- Have a user-friendly layout that integrates these two features relatively seamlessly
+- For styling, focus on layout, don't need to worry to much about fonts/colors/etc.
+
 - **Team Messenger**
   - Emma
   - Quinn
   - Jared
   - Marissa
+
+- Create a platform for messaging between users
+- Create threads for each conversation (one user to one other user)
+- For styling, focus on layout, don't need to worry to much about fonts/colors/etc.
+
 - **Team Scheduler**
   - Courtney
   - Natalie
   - Jeff
+
+- Create a platform for mentor and mentee to find a time that works for both to meet
+- Can build from scratch, but API may be easier -- just make sure API is free and can be scalable, also avoid complicated authentication for APIs
+- For styling, focus on layout, don't need to worry to much about fonts/colors/etc.
 
 ## Getting Started
 
