@@ -24,6 +24,12 @@
   - Natalie
   - Jeff
 
+## Getting Started
+
+You will need the code in [this repo](https://github.com/hollyewhite/custom_mentor) to get started.
+
+If you are wondering what tasks need to be accomplished on the team, here is the [Trello for Custom Mentor](https://trello.com/b/EZAIMAMk/custom-mentor).
+
 ## Helpful Links
 
 - [Team Members of Custom Mentor](https://docs.google.com/spreadsheets/d/1CqYYEtaoibtD1uAUvhyzM5_AnKOo4LieFUUEAVv4OwA/edit#gid=0)
