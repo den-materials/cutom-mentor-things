@@ -42,6 +42,7 @@
   - Jeff
 
 - Create a platform for mentor and mentee to find a time that works for both to meet
+- Ideally, we can have different size of appts (15 mins, 1 hr, etc)
 - Can build from scratch, but API may be easier -- just make sure API is free and can be scalable, also avoid complicated authentication for APIs
 - For styling, focus on layout, don't need to worry to much about fonts/colors/etc.
 
