@@ -30,6 +30,13 @@ You will need the code in [this repo](https://github.com/hollyewhite/custom_ment
 
 If you are wondering what tasks need to be accomplished on the team, here is the [Trello for Custom Mentor](https://trello.com/b/EZAIMAMk/custom-mentor).
 
+## Keeping in Touch
+
+You will receive an invite to the Custom Mentor organization soon, if you haven't already.  In the `#general-assembly` channel, you can get help/feedback from other team members.  **Please adhere to the following rules as a courtesy to the team members**
+
+- Please send only one set of questions per day (one Saturday, one Sunday)
+- Understand that this is the weekend, so it may take a half a day or so to get a response.  Queue up enough work you can do without feedback for the rest of the day.
+
 ## Helpful Links
 
 - [Team Members of Custom Mentor](https://docs.google.com/spreadsheets/d/1CqYYEtaoibtD1uAUvhyzM5_AnKOo4LieFUUEAVv4OwA/edit#gid=0)
