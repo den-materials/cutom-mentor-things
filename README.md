@@ -40,6 +40,7 @@ You will receive an invite to the Custom Mentor organization soon, if you haven'
 ## Helpful Links
 
 - [Team Members of Custom Mentor](https://docs.google.com/spreadsheets/d/1CqYYEtaoibtD1uAUvhyzM5_AnKOo4LieFUUEAVv4OwA/edit#gid=0)
+- [Planned Site Map](https://drive.google.com/file/d/0ByEKaoZO6-N8SWtJcGdKRk9lQW8/view)
 - [React vs Angular](https://www.sitepoint.com/react-vs-angular/)
 - [React Storybook](https://voice.kadira.io/introducing-react-storybook-ec27f28de1e2)
 - [Getting Started with Redux](https://egghead.io/courses/getting-started-with-redux)
