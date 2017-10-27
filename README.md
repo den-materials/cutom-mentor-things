@@ -3,8 +3,8 @@
 ## Schedule
 
 - 2:45pm Friday 10/27 - Scoping/Planning Meeting with Holly and Jeff
-- 3pm Monday 10/30 - Final Prep and advisory for presentations
-- 3:30 pm Monday 10/30 - Presentations to Matt
+- 2:30pm (ish) Monday 10/30 - Final Prep and advisory for presentations
+- 3:00 pm Monday 10/30 - Presentations to Matt
 - Thanksgiving Week (11/20-11/27) - Translate into React
 
 ## Squads
