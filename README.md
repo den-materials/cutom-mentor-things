@@ -21,6 +21,8 @@
 - Have a user-friendly layout that integrates these two features relatively seamlessly
 - For styling, focus on layout, don't need to worry to much about fonts/colors/etc.
 
+</hr>
+
 - **Team Messenger**
   - Emma
   - Quinn
@@ -30,6 +32,8 @@
 - Create a platform for messaging between users
 - Create threads for each conversation (one user to one other user)
 - For styling, focus on layout, don't need to worry to much about fonts/colors/etc.
+
+</hr>
 
 - **Team Scheduler**
   - Courtney
